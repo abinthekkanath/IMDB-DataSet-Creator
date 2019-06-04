@@ -16,3 +16,4 @@ with fields:
 
 7.Primary Language
 
+I used python requests and scrapy here imdb-dataset-creator.py is pure python code and imdbDataset is a scrapy project
